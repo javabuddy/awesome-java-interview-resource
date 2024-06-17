@@ -177,8 +177,35 @@ A comprehensive list of Java interview questions categorized by topic. These que
 
   
 ## Linked List
+- [What is the difference between an array and a linked list?](http://javarevisited.blogspot.sg/2013/07/difference-between-array-and-linked-list-java.html)
+- [How to implement a singly linked list in Java?](http://javarevisited.blogspot.sg/2012/12/how-to-create-linkedlist-in-java-example.html)
+- [How to reverse a singly linked list in Java?](http://javarevisited.blogspot.sg/2013/03/how-to-reverse-linked-list-in-java.html)
+- [How to detect a loop in a linked list?](http://javarevisited.blogspot.sg/2013/05/how-to-detect-loop-in-linkedlist-java.html)
+- [How to find the middle element of a linked list in one pass?](http://javarevisited.blogspot.sg/2012/12/how-to-find-middle-element-of-linked-list-one-pass.html)
+- [How to merge two sorted linked lists into one sorted linked list?](http://javarevisited.blogspot.sg/2012/12/how-to-merge-two-sorted-linked-list-into-single-sorted-list.html)
+- [How to delete a node from a singly linked list?](http://javarevisited.blogspot.sg/2013/07/how-to-remove-loop-in-linked-list-java.html)
+- [How to find the nth node from the end in a singly linked list?](http://javarevisited.blogspot.sg/2012/12/how-to-find-nth-element-from-end-in-linked-list-java.html)
+- [How to sort a linked list in Java?](http://javarevisited.blogspot.sg/2013/03/how-to-sort-singly-linked-list-in-java.html)
+- [What are the advantages and disadvantages of using a linked list over an array?](http://javarevisited.blogspot.sg/2013/07/difference-between-array-and-linked-list-java.html)
+- [How to detect and remove loop in a linked list in Java?](http://javarevisited.blogspot.sg/2013/07/how-to-remove-loop-in-linked-list-java.html)
+- [How to find the intersection point of two linked lists?](http://javarevisited.blogspot.sg/2013/03/how-to-find-middle-element-of-linked-list-one-pass.html)
+- [How to create a circular linked list in Java?](http://javarevisited.blogspot.sg/2013/07/detecting-loop-in-singly-linked-list-java.html)
+
 
 ## Recursion
+ - [Write a program to find all permutations of a given String?](https://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html#axzz5N6yGHupv))
+ -[Write a program to check if a given String is a palindrome()?](http://www.java67.com/2015/06/how-to-check-is-string-is-palindrome-in.html)
+- [Write a program to remove duplicates from an unsorted linked list?](https://javarevisited.blogspot.com/2012/12/how-to-remove-duplicates-elements-from-ArrayList-Java.html)
+- [Write a program to find the length of a given linked list?](https://javarevisited.blogspot.com/2016/05/how-do-you-find-length-of-singly-linked.html#axzz6dXsEfLvJ)
+- [Write a program to implement a quicksort algorithm using recursion?](https://www.java67.com/2014/07/quicksort-algorithm-in-java-in-place-example.html)
+- [Write a method countLeaves() to find the total number of leaf nodes in a binary tree. If there are no leaf nodes, return 0](https://javarevisited.blogspot.com/2016/12/how-to-count-number-of-leaf-nodes-in-java-recursive-iterative-algorithm.html#axzz6e8hmwujv)
+- [Write a program to find the greatest common divisor or GCD of a given number?](http://www.java67.com/2012/08/java-program-to-find-gcd-of-two-numbers.html)
+- [Write a program to convert a decimal number to a binary number?](https://javarevisited.blogspot.com/2015/01/how-to-convert-binary-number-to-decimal.html) 
+- [Write a program to print pre-order traversal of binary tree?](https://javarevisited.blogspot.com/2016/07/binary-tree-preorder-traversal-in-java-using-recursion-iteration-example.html#axzz6dXsEfLvJ)
+- [Write a program to print in-order traversal of binary tree using recursion?](https://javarevisited.blogspot.com/2016/07/binary-tree-preorder-traversal-in-java-using-recursion-iteration-example.html#axzz6dXsEfLvJ) 
+- [Write a program to print post-order traversal of binary tree?](https://javarevisited.blogspot.com/2016/10/post-order-binary-tree-traversal-in-java-iteration-recursion.html)
+- [Write a program to check if a given linked list is a palindrome?](https://javarevisited.blogspot.com/2022/03/how-to-check-if-given-linked-list-is.html) 
+
 
 ## Coding Problems
 
