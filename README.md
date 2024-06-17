@@ -28,10 +28,24 @@ A comprehensive list of Java interview questions categorized by topic. These que
 ## Core Java
 - [Top 50 Java Programming Interview Questions](https://www.java67.com/2012/08/10-java-coding-interview-questions-and.html)
 - [133+ Core Java Interview Questions for 2-5 Years Experienced Programmers](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
+- [20 Core Java Interview Questions on Overloading and Overriding](https://www.java67.com/2012/09/20-core-java-interview-questions-on.html)
+- 
 
 ## OOP Concepts
 - [Top 50 Object-Oriented Programming (OOP) Concepts Interview Questions](https://javarevisited.blogspot.com/2013/03/10-oops-object-oriented-design-interview-question-answer.html)
 - [Top 20 Object-Oriented Programming (OOP) Concepts Interview Questions Answers](https://www.java67.com/2018/05/20-object-oriented-programming-oops-interview-questions-answers.html)
+- [Top 15 Java Method Overloading and Overriding Interview Questions](https://www.java67.com/2013/07/overriding-vs-overloading-java.html)
+- [What is Constructor Overloading in Java? Example](https://javarevisited.blogspot.com/2018/08/what-is-constructor-overloading-in-java-example.html)
+- [Java Best Practices for Method Overloading? Examples](https://javarevisited.blogspot.com/2017/08/java-best-practices-for-method-overloading-example.html)
+- [Can You Overload or Override Static Methods in Java? Example](https://javarevisited.blogspot.com/2012/03/can-we-overload-or-override-static-method-in-java.html)
+- [What is Covariant Method Overriding in Java? Example](https://javarevisited.blogspot.com/2013/09/covariant-method-overriding-in-java-example.html)
+- [Difference between Abstraction and Encapsulation in Java](https://java67.com/2012/09/abstraction-vs-encapsulation-in-java-oops.html)
+- [Difference between Abstract Class and Interface in Java](https://java67.com/2012/09/difference-between-abstract-class-and-interface-in-java.html)
+- [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2013/05/difference-between-inheritance-and-polymorphism-java-oops.html)
+- [Java Polymorphism Interview Questions and Answers](https://javarevisited.blogspot.com/2014/08/polymorphism-in-java-example-tutorial.html)
+- [10 Object-Oriented Design Principles](https://javarevisited.blogspot.com/2014/09/10-object-oriented-design-principles.html)
+- [Java OOP Interview Questions and Answers](https://www.java67.com/2018/10/java-oops-object-oriented-programming-interview-questions.html)
+- [Top 20 Java Interview Questions on Object-Oriented Programming](https://javarevisited.blogspot.com/2014/08/top-20-object-oriented-programming-oops-interview-questions-answers-java.html)
 
 ## Collections
 - [Top 50 Collection Framework Interview Questions](https://www.java67.com/2012/08/10-advanced-java-interview-questions.html)
@@ -139,9 +153,29 @@ A comprehensive list of Java interview questions categorized by topic. These que
 - [Top 10 Java Virtual Machine (JVM) Interview Questions](https://javarevisited.blogspot.com/2011/09/10-java-jvm-internals-interview-questions-answers.html)
 
 ## String
+- [How to find the maximum occurring character in a given String](http://javarevisited.blogspot.com/2012/12/how-to-count-occurrence-of-character-in-String.html)
+- [How to remove a given character from a String](https://www.java67.com/2013/03/how-to-replace-string-in-java-character-example.html)
+- [How to count the occurrence of a given character in a String](https://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html)
+- [How to find all permutations of a given String](http://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html)
+- [How to reverse a given String in place](http://javarevisited.blogspot.com/2012/01/how-to-reverse-string-in-java-using.html)
+- [How to check if two Strings are anagrams of each other](http://javarevisited.blogspot.com/2013/03/Anagram-how-to-check-if-two-string-are-anagrams-example-tutorial.html)
+- [How to convert a given String into an integer](http://javarevisited.blogspot.com/2011/08/convert-string-to-integer-to-string.html)
+- [How to check if a given String is a palindrome](http://java67.com/2015/06/how-to-check-is-string-is-palindrome-in.html)
+- [How to find the first non-repeated character from a given String](http://javarevisited.blogspot.com/2014/03/3-ways-to-find-first-non-repeated-character-String-programming-problem.html)
+
 
 ## Array
+- [What is an array? Can you change the size of the array once created?](http://java67.blogspot.sg/2014/08/10-points-about-array-in-java.html)
+- [Can you store String in an array of Integer in Java? compile-time error or runtime exception?](http://javarevisited.blogspot.co.uk/2013/11/java-array-101-for-programmers-and.html)
+- [What is the difference between ArrayIndexOutfOBounds and ArrayStoreException?](http://javarevisited.blogspot.sg/2014/05/exception-in-thread-main-arrayindexoutofboundsexception-java.html)
+- [Can you use Generics with an array?](http://javarevisited.blogspot.sg/2011/09/generics-java-example-tutorial.html)
+- [What is a two-dimensional array in Java?](http://java67.blogspot.sg/2014/10/how-to-create-and-initialize-two-dimensional-array-java-example.html)
+- [Do you have a three-dimensional array in Java?](http://javarevisited.blogspot.sg/2016/02/6-example-to-declare-two-dimensional-array-in-java.html#axzz4s6N7Y7Gb)
+- [How to iterate over an array in Java?](http://java67.blogspot.sg/2013/08/how-to-iterate-over-array-in-java-15.html)
+- [What is the difference between an array and a linked list?](http://javarevisited.blogspot.sg/2013/07/difference-between-array-and-linked-list-java.html)
+- [How to sort an array in Java?](http://java67.blogspot.sg/2014/08/4-examples-to-sort-array-in-java.html)
 
+  
 ## Linked List
 
 ## Recursion
