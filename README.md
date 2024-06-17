@@ -1,6 +1,27 @@
 # Awesome Java Interview Quesitons with Answers and Resources
 Best collection of Java Interview resources including books, courses, interview questions and answers on different topics like core java, collections, mutlithreading, functional programming, serialization, design patterns and more. 
 
+## Best Java Interview Prep Courses
+- [Grokking the System Design Interview](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview)
+- [Java Interview Guide: 200+ Interview Questions and Answers](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-interview-questions-and-answers%2F)
+- [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
+- [Grokking the Object-Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)
+- [Java Multithreading for Senior Engineering Interviews](https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews?affiliate_id=5073518643380224)
+- [200+ SQL Interview Questions](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
+- [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
+- [Data Structure and Algorithms Analysis - Job Interview](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structure-and-algorithms-analysis%2F)
+- [Spring and Spring Boot Interview Guide](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
+- [Java Multithreading & Concurrency - Interview Practice Exams](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
+
+## Best Java Interview Prep Books
+- [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/dp/098478280X/?tag=javamysqlanta-20)
+- [Grokking the Java Interview bundle](https://javinpaul.gumroad.com/l/java-interview-bundle?offer_code=friends20)
+- [Grokking the Spring Boot Interview on Gumroad](https://gumroad.com/l/hrUXKY)
+- [Java Programming Interview Exposed By Markham](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)
+- [Programming Interviews Exposed](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20)
+- [Daily Coding Problem: Get Exceptionally Good](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/?tag=javamysqlanta-20)
+
+
 # Java Interview Questions
 A comprehensive list of Java interview questions categorized by topic. These questions are asked multiple times on core Java interview to many developers, both junior developers with 1 to 2 years of experienced, intermediate developers  of 3 to 5 years of experience and senior developers with 5 to 10 yeras of experience. 
 
@@ -116,6 +137,16 @@ A comprehensive list of Java interview questions categorized by topic. These que
 
 ## JVM Internals
 - [Top 10 Java Virtual Machine (JVM) Interview Questions](https://javarevisited.blogspot.com/2011/09/10-java-jvm-internals-interview-questions-answers.html)
+
+## String
+
+## Array
+
+## Linked List
+
+## Recursion
+
+## Coding Problems
 
 ## Miscelleneous
 - [Top 50 Core Java Interview Questions Answers](https://javarevisited.blogspot.com/2011/03/core-java-interview-questions-answers.html)
