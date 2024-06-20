@@ -112,9 +112,10 @@ A comprehensive list of Java interview questions categorized by topic. These que
 - [Top 10 Java Exception and Error Interview Questions](https://javarevisited.blogspot.com/2011/09/10-exception-and-error-interview-questions.html)
 - [Java Exception Handling Interview Questions](https://www.java67.com/2017/07/10-exception-handling-interview-questions-answers-java.html)
 
-## Java 8
+## Stream and Functional Programming
 - [20 Java 8 Interview Questions](https://javarevisited.blogspot.com/2014/04/java-8-interview-questions-and-answers.html)
 - [Top 50 Java 8 Interview Questions](https://www.java67.com/2016/04/top-50-java-8-interview-questions.html)
+- [Top 15 Java 8 Stream and Functional Programming Interview Questions Answers](https://www.java67.com/2019/03/top-15-java-8-stream-and-functional-programming-interview-questions.html)
 
 ## Design Patterns
 - [Top 20 Design Pattern Interview Questions](https://javarevisited.blogspot.com/2013/03/10-object-oriented-design-interview-question-answer.html)
@@ -165,6 +166,17 @@ A comprehensive list of Java interview questions categorized by topic. These que
 
 
 ## Array
+- [How to check if an array contains a number in Java?](https://www.java67.com/2019/02/how-to-check-if-array-contains-number-in-java.html)
+- [How to find all pairs in an array whose sum is equal to k](https://javarevisited.blogspot.com/2015/06/how-to-find-all-pairs-in-array-whose-sum-is-equal-k.html)
+- [How to remove duplicates from an array in Java](https://javarevisited.blogspot.com/2015/06/how-to-remove-duplicates-from-array-java.html)
+- [Binary Search Algorithm without Recursion](https://javarevisited.blogspot.com/2015/08/binary-search-algorithm-in-java-without-recursion.html)
+- [Prime Number Generation Algorithms - Sieve of Eratosthenes](https://javarevisited.blogspot.com/2017/08/prime-number-generation-algorithms-sieve-of-eratosthenes.html)
+- [How to find largest and smallest number from integer array - Java Solution](https://www.java67.com/2016/06/how-to-find-largest-and-smallest-number-from-array-java.html)
+- [How to Reverse an Array in place in Java? Example Solution](https://www.java67.com/2016/01/how-to-reverse-array-in-place-in-java.html)
+- [How to sort an Array in descending order in Java? Example Tutorial](https://www.java67.com/2018/03/how-to-sort-array-in-descending-order-in-java-example.html)
+- [How to Rotate an Array to Left or Right in Java? Solution Example](https://www.java67.com/2016/05/how-to-rotate-array-to-left-or-right-in-java.html)
+- [How to implement Bubble sort in Java?](https://www.java67.com/2012/11/bubble-sort-in-java-program-to-sort.html)
+- [How to sort an array in place using the QuickSort algorithm?](https://www.java67.com/2020/01/quicksort-algorithm-in-java-example.html)
 - [What is an array? Can you change the size of the array once created?](http://java67.blogspot.sg/2014/08/10-points-about-array-in-java.html)
 - [Can you store String in an array of Integer in Java? compile-time error or runtime exception?](http://javarevisited.blogspot.co.uk/2013/11/java-array-101-for-programmers-and.html)
 - [What is the difference between ArrayIndexOutfOBounds and ArrayStoreException?](http://javarevisited.blogspot.sg/2014/05/exception-in-thread-main-arrayindexoutofboundsexception-java.html)
@@ -174,6 +186,7 @@ A comprehensive list of Java interview questions categorized by topic. These que
 - [How to iterate over an array in Java?](http://java67.blogspot.sg/2013/08/how-to-iterate-over-array-in-java-15.html)
 - [What is the difference between an array and a linked list?](http://javarevisited.blogspot.sg/2013/07/difference-between-array-and-linked-list-java.html)
 - [How to sort an array in Java?](http://java67.blogspot.sg/2014/08/4-examples-to-sort-array-in-java.html)
+- [Top 21 Java Array Interview Questions and Answers](https://www.java67.com/2023/04/top-21-java-array-interview-questions-and-answers.html)
 
   
 ## Linked List
@@ -193,8 +206,8 @@ A comprehensive list of Java interview questions categorized by topic. These que
 
 
 ## Recursion
- - [Write a program to find all permutations of a given String?](https://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html#axzz5N6yGHupv))
- -[Write a program to check if a given String is a palindrome()?](http://www.java67.com/2015/06/how-to-check-is-string-is-palindrome-in.html)
+- [Write a program to find all permutations of a given String?](https://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html#axzz5N6yGHupv))
+- [Write a program to check if a given String is a palindrome()?](http://www.java67.com/2015/06/how-to-check-is-string-is-palindrome-in.html)
 - [Write a program to remove duplicates from an unsorted linked list?](https://javarevisited.blogspot.com/2012/12/how-to-remove-duplicates-elements-from-ArrayList-Java.html)
 - [Write a program to find the length of a given linked list?](https://javarevisited.blogspot.com/2016/05/how-do-you-find-length-of-singly-linked.html#axzz6dXsEfLvJ)
 - [Write a program to implement a quicksort algorithm using recursion?](https://www.java67.com/2014/07/quicksort-algorithm-in-java-in-place-example.html)
@@ -208,6 +221,26 @@ A comprehensive list of Java interview questions categorized by topic. These que
 
 
 ## Coding Problems
+- [How to implement Merge Sort Algorithm in Java - Example Tutorial](https://www.java67.com/2020/01/merge-sort-algorithm-in-java-example.html)
+- [How to Find Nth Fibonacci Number in Java - Example Tutorial](https://www.java67.com/2020/01/how-to-find-nth-fibonacci-number-in-java.html)
+- [How to swap two Integers without using a temporary variable in Java?](https://www.java67.com/2019/02/how-to-swap-two-integers-without-using-temporary-variable-in-java.html)
+- [How to find Factorial in Java using Recursion and Iteration - Example Tutorial](https://www.java67.com/2020/01/factorial-in-java-using-recursion-and-iteration.html)
+- [How to code Binary Search Algorithm using Recursion in Java? Example](https://www.java67.com/2020/01/binary-search-algorithm-using-recursion-in-java.html)
+- [How to convert Decimal to Binary Number in Java? Example Tutorial](https://www.java67.com/2020/01/how-to-convert-decimal-to-binary-in-java.html)
+- [Counting Sort in Java - Example](https://www.java67.com/2019/02/counting-sort-in-java-example.html)
+- [How to check if an array contains a number in Java?](https://www.java67.com/2019/02/how-to-check-if-array-contains-number-in-java.html)
+- [How to sort an array in place using the QuickSort algorithm?](https://www.java67.com/2020/01/quicksort-algorithm-in-java-example.html)
+- [How do you print all duplicate elements from the array in Java?](https://www.java67.com/2020/01/how-to-print-duplicate-elements-from-array-in-java.html)
+- [Top 100 Data Structure and Algorithm Interview Questions for Java Programmers](https://www.java67.com/2018/04/top-100-data-structure-and-algorithm-interview-questions.html)
+- [Top 30 Stack and Queue Data Structure Interview Questions for Practice](https://www.java67.com/2018/04/top-30-stack-and-queue-data-structure-interview-questions.html)
+- [Top 40 Binary Tree Coding Interview Questions for Programmers](https://www.java67.com/2018/06/top-40-binary-tree-coding-interview-questions.html)
+- [Top 22 Array Concepts Interview Questions Answers in Java](https://www.java67.com/2019/03/top-22-array-concepts-interview-questions-answers-in-java.html)
+- [75+ Coding Interview Questions for Programmers](https://javarevisited.blogspot.com/2015/02/75-programming-interview-questions.html)
+- [50+ Data Structure and Algorithms Problems from Interviews](https://javarevisited.blogspot.com/2015/02/data-structure-and-algorithm-interview-questions.html)
+- [Top 50 Array Coding Problems for Interviews](https://javarevisited.blogspot.com/2015/02/top-50-array-coding-problems-for-interviews.html)
+- [Top 20 Linked List Interview Questions for Programmers](https://javarevisited.blogspot.com/2015/02/top-20-linked-list-interview-questions.html)
+- [Top 10 Algorithm Interview Questions for Programmers](https://javarevisited.blogspot.com/2015/02/top-10-algorithm-interview-questions.html)
+
 
 ## Miscelleneous
 - [Top 50 Core Java Interview Questions Answers](https://javarevisited.blogspot.com/2011/03/core-java-interview-questions-answers.html)
