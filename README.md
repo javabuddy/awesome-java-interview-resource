@@ -266,3 +266,7 @@ A comprehensive list of Java interview questions categorized by topic. These que
 - [Top 10 Core Java Interview Questions for Beginners](https://www.java67.com/2018/04/top-10-core-java-interview-questions-answers-for-beginners.html)
 - [Top 10 Java String Interview Questions](https://www.java67.com/2015/10/21-string-coding-interview-question-and-answers.html)
 
+
+## Java Interview Cheat Sheet
+![Java Interview Cheat Sheet](https://github.com/user-attachments/assets/51f017b6-8bc3-4f7b-872d-f8c66be6280b)
+
