@@ -14,13 +14,13 @@ Best collection of Java Interview resources including books, courses, interview 
 - [Java Multithreading & Concurrency - Interview Practice Exams](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
 
 ## Best Java Interview Prep Books
-- [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/dp/098478280X/?tag=javamysqlanta-20](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20)) - common coding questions from interviews 
+- [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20) - common coding questions from interviews 
 - [Grokking the Java Interview bundle](https://javinpaul.gumroad.com/l/java-interview-bundle?offer_code=friends20) - core Java and multithreading questions from interview
 - [Grokking the Spring Boot Interview on Gumroad](https://gumroad.com/l/hrUXKY) - spring framework and spring boot questions
 - [System Design Interview – An insider's guide  by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) - system design interview pre
 - [Java Programming Interview Exposed By Markham](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)
 - [Object Oriented Design Interview: An Insider’s Guide](https://www.amazon.com/Object-Oriented-Design-Interview-Insiders/dp/173604916X?tag=javamysqlanta-20)
-- [Programming Interviews Exposed](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview-dp-111941847X/dp/111941847X/?tag=javamysqlanta-20))
+- [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview-dp-111941847X/dp/111941847X/?tag=javamysqlanta-20)
 - [Daily Coding Problem: Get Exceptionally Good](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/?tag=javamysqlanta-20)
 - [Coding Interview Patterns: Nail Your Next Coding Interview](https://www.amazon.com/Coding-Interview-Patterns-Nail-Your/dp/1736049135?tag=javamysqlanta-20) - coding interivew patterns
 
@@ -51,13 +51,12 @@ A comprehensive list of Java interview questions categorized by topic. These que
 - [Top 20 Java Interview Questions on Object-Oriented Programming](https://javarevisited.blogspot.com/2014/08/top-20-object-oriented-programming-oops-interview-questions-answers-java.html)
 
 ## Collections
-- [Top 50 Collection Framework Interview Questions](https://www.java67.com/2012/08/10-advanced-java-interview-questions.html)
-- [Top 50 Java Collection Framework Interview Questions](https://javarevisited.blogspot.com/2011/10/10-interview-questions-on-collections.html)
-- [Difference between ArrayList and HashSet in Java](https://javarevisited.blogspot.com/2014/04/difference-between-arraylist-and-hashset-in-java.html)
-- [Difference between HashMap and HashSet in Java](https://javarevisited.blogspot.com/2011/02/difference-between-hashmap-and-hashset.html)
-- [Difference between List and Set in Java](https://javarevisited.blogspot.com/2013/12/difference-between-list-and-set-in-java.html)
+- [Top 50 Collection Framework Interview Questions](https://javarevisited.blogspot.com/2020/04/50-java-collection-and-generics-interview-questions-answers.html)
+- [Difference between List and Set in Java](https://javarevisited.blogspot.com/2012/04/difference-between-list-and-set-in-java.html)
 - [Difference between HashMap and ConcurrentHashMap in Java](https://javarevisited.blogspot.com/2013/01/difference-between-hashmap-vs-concurrenthashmap-java.html)
 - [Difference between ArrayList and LinkedList in Java](https://javarevisited.blogspot.com/2012/06/arraylist-vs-linkedlist-in-java.html)
+- [Difference between ArrayList and HashSet in Java](https://javarevisited.blogspot.com/2014/04/difference-between-arraylist-and-hashset-in-java.html)
+- [Difference between HashMap and HashSet in Java](https://javarevisited.blogspot.com/2011/02/difference-between-hashmap-and-hashset.html)
 - [Difference between HashMap and TreeMap in Java](https://javarevisited.blogspot.com/2011/12/difference-between-treemap-and-hashmap-java.html)
 - [Top 15 ArrayList Interview Questions Answers in Java](https://javarevisited.blogspot.com/2017/03/arraylist-interview-questions-answers-java.html)
 - [Difference between Hashtable and HashMap in Java](https://javarevisited.blogspot.com/2010/10/difference-between-hashmap-and.html)
