@@ -9,17 +9,20 @@ Best collection of Java Interview resources including books, courses, interview 
 - [Java Multithreading for Senior Engineering Interviews](https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews?affiliate_id=5073518643380224)
 - [200+ SQL Interview Questions](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
 - [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
-- [Data Structure and Algorithms Analysis - Job Interview](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structure-and-algorithms-analysis%2F)
+- [Java Data Structures & Algorithms + LEETCODE Exercises](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-java%2F%3FcouponCode%3DLETSLEARNNOW)
 - [Spring and Spring Boot Interview Guide](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
 - [Java Multithreading & Concurrency - Interview Practice Exams](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
 
 ## Best Java Interview Prep Books
-- [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/dp/098478280X/?tag=javamysqlanta-20)
-- [Grokking the Java Interview bundle](https://javinpaul.gumroad.com/l/java-interview-bundle?offer_code=friends20)
-- [Grokking the Spring Boot Interview on Gumroad](https://gumroad.com/l/hrUXKY)
+- [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/dp/098478280X/?tag=javamysqlanta-20](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20)) - common coding questions from interviews 
+- [Grokking the Java Interview bundle](https://javinpaul.gumroad.com/l/java-interview-bundle?offer_code=friends20) - core Java and multithreading questions from interview
+- [Grokking the Spring Boot Interview on Gumroad](https://gumroad.com/l/hrUXKY) - spring framework and spring boot questions
+- [System Design Interview – An insider's guide  by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) - system design interview pre
 - [Java Programming Interview Exposed By Markham](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)
-- [Programming Interviews Exposed](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20)
+- [Object Oriented Design Interview: An Insider’s Guide](https://www.amazon.com/Object-Oriented-Design-Interview-Insiders/dp/173604916X?tag=javamysqlanta-20)
+- [Programming Interviews Exposed](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview-dp-111941847X/dp/111941847X/?tag=javamysqlanta-20))
 - [Daily Coding Problem: Get Exceptionally Good](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/?tag=javamysqlanta-20)
+- [Coding Interview Patterns: Nail Your Next Coding Interview](https://www.amazon.com/Coding-Interview-Patterns-Nail-Your/dp/1736049135?tag=javamysqlanta-20) - coding interivew patterns
 
 
 # Java Interview Questions
@@ -28,19 +31,19 @@ A comprehensive list of Java interview questions categorized by topic. These que
 ## Core Java
 - [Top 50 Java Programming Interview Questions](https://www.java67.com/2012/08/10-java-coding-interview-questions-and.html)
 - [133+ Core Java Interview Questions for 2-5 Years Experienced Programmers](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
-- [20 Core Java Interview Questions on Overloading and Overriding](https://www.java67.com/2012/09/20-core-java-interview-questions-on.html)
+- [20 Core Java Interview Questions on Overloading and Overriding](https://www.java67.com/2015/08/top-10-method-overloading-overriding-interview-questions-answers-java.html)
 - 
 
 ## OOP Concepts
-- [Top 50 Object-Oriented Programming (OOP) Concepts Interview Questions](https://javarevisited.blogspot.com/2013/03/10-oops-object-oriented-design-interview-question-answer.html)
-- [Top 20 Object-Oriented Programming (OOP) Concepts Interview Questions Answers](https://www.java67.com/2018/05/20-object-oriented-programming-oops-interview-questions-answers.html)
-- [Top 15 Java Method Overloading and Overriding Interview Questions](https://www.java67.com/2013/07/overriding-vs-overloading-java.html)
-- [What is Constructor Overloading in Java? Example](https://javarevisited.blogspot.com/2018/08/what-is-constructor-overloading-in-java-example.html)
-- [Java Best Practices for Method Overloading? Examples](https://javarevisited.blogspot.com/2017/08/java-best-practices-for-method-overloading-example.html)
-- [Can You Overload or Override Static Methods in Java? Example](https://javarevisited.blogspot.com/2012/03/can-we-overload-or-override-static-method-in-java.html)
-- [What is Covariant Method Overriding in Java? Example](https://javarevisited.blogspot.com/2013/09/covariant-method-overriding-in-java-example.html)
-- [Difference between Abstraction and Encapsulation in Java](https://java67.com/2012/09/abstraction-vs-encapsulation-in-java-oops.html)
-- [Difference between Abstract Class and Interface in Java](https://java67.com/2012/09/difference-between-abstract-class-and-interface-in-java.html)
+- [Top 40 Object-Oriented Programming (OOP) Concepts Interview Questions](https://javarevisited.blogspot.com/2020/05/object-oriented-programming-questions-answers.html)
+- [30 Object-Oriented Programming (OOP) Concepts Interview Questions Answers](https://www.java67.com/2015/12/top-30-oops-concept-interview-questions-answers-java.html)
+- [Top 15 Java Method Overloading and Overriding Interview Questions](https://www.java67.com/2015/08/top-10-method-overloading-overriding-interview-questions-answers-java.html)
+- [What is Constructor Overloading in Java? ](https://javarevisited.blogspot.com/2012/01/what-is-constructor-overloading-in-java.html)
+- [Java Best Practices for Method Overloading?](https://javarevisited.blogspot.com/2013/01/java-best-practices-method-overloading-constructor.html)
+- [Can You Overload or Override Static Methods in Java?](https://javarevisited.blogspot.com/2013/03/can-we-overload-and-override-static-method-java.html)
+- [What is Covariant Method Overriding in Java? Example](https://javarevisited.substack.com/p/covariant-method-overriding-in-java)
+- [Difference between Abstraction and Encapsulation in Java](https://javarevisited.blogspot.com/2017/04/difference-between-abstraction-and-encapsulation-in-java-oop.html)
+- [Difference between Abstract Class and Interface in Java](https://javarevisited.blogspot.com/2013/05/difference-between-abstract-class-vs-interface-java-when-prefer-over-design-oops.html)
 - [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2013/05/difference-between-inheritance-and-polymorphism-java-oops.html)
 - [Java Polymorphism Interview Questions and Answers](https://javarevisited.blogspot.com/2014/08/polymorphism-in-java-example-tutorial.html)
 - [10 Object-Oriented Design Principles](https://javarevisited.blogspot.com/2014/09/10-object-oriented-design-principles.html)
