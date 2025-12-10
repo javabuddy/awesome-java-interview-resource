@@ -3,15 +3,15 @@ Best collection of Java Interview resources including books, courses, interview 
 
 ## Best Java Interview Prep Courses
 - [Grokking the System Design Interview](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview)
-- [Java Interview Guide: 200+ Interview Questions and Answers](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-interview-questions-and-answers%2F)
+- [Java Interview Guide: 200+ Interview Questions and Answers](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-interview-questions-and-answers%2F)
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
 - [Grokking the Object-Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)
 - [Java Multithreading for Senior Engineering Interviews](https://www.educative.io/courses/java-multithreading-for-senior-engineering-interviews?affiliate_id=5073518643380224)
-- [200+ SQL Interview Questions](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
+- [200+ SQL Interview Questions](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
 - [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
-- [Java Data Structures & Algorithms + LEETCODE Exercises](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-java%2F%3FcouponCode%3DLETSLEARNNOW)
-- [Spring and Spring Boot Interview Guide](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
-- [Java Multithreading & Concurrency - Interview Practice Exams](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
+- [Java Data Structures & Algorithms + LEETCODE Exercises](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-java%2F%3FcouponCode%3DLETSLEARNNOW)
+- [Spring and Spring Boot Interview Guide](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
+- [Java Multithreading & Concurrency - Interview Practice Exams](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-interview-practice-exams%2F)
 
 ## Best Java Interview Prep Books
 - [Cracking the Coding Interview: 189 Programming Questions](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20) - common coding questions from interviews 
